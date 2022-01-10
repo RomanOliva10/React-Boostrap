@@ -1,2 +1,2 @@
-# nn
-Created with CodeSandbox
+# Redux & Fromik Practice
+Link: https://csb-79h0x.netlify.app/
